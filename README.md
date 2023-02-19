@@ -1,2 +1,2 @@
 # Hangman
-but it's python
+hang me
